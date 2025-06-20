@@ -1,0 +1,4 @@
+com.adamcake.Bolt
+com.discordapp.Discord
+com.github.zocker_160.SyncThingy
+me.proton.Mail
