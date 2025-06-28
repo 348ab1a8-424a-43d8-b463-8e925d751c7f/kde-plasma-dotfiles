@@ -1,1 +1,1 @@
-# 348-KDE-dotfiles
+# kde-plasma-dotfiles
